@@ -12217,9 +12217,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"gatsby-remark-prismjs@npm:^6.17.0":
-  version: 6.17.0
-  resolution: "gatsby-remark-prismjs@npm:6.17.0"
+"gatsby-remark-prismjs@npm:^6.25.0":
+  version: 6.25.0
+  resolution: "gatsby-remark-prismjs@npm:6.25.0"
   dependencies:
     "@babel/runtime": ^7.15.4
     parse-numeric-range: ^1.2.0
@@ -12227,7 +12227,7 @@ __metadata:
   peerDependencies:
     gatsby: ^4.0.0-next
     prismjs: ^1.15.0
-  checksum: 38718065743fcda15572a706ced9e31c2e20cb3bbfc68c61868dfdd917ebf33d4e49333f0e08eec0884cfcf7ee39bb5374f53635d8d0b5b6cb8d4b72a6e20ed4
+  checksum: c919174ab1a3453bff8ddc37b78abdee20eefe34089226b076bd1b63c9401ad56846c3d32e7393ff7d0e05b435382080052d96558c46d71ee3299e2af2f7d3e1
   languageName: node
   linkType: hard
 
@@ -12509,7 +12509,7 @@ __metadata:
     gatsby-remark-copy-linked-files: ^5.17.0
     gatsby-remark-embed-video: ^3.1.4
     gatsby-remark-images: ^6.17.0
-    gatsby-remark-prismjs: ^6.17.0
+    gatsby-remark-prismjs: ^6.25.0
     gatsby-remark-responsive-iframe: ^5.17.0
     gatsby-source-filesystem: ^4.17.0
     gatsby-transformer-remark: ^5.17.0
@@ -12693,7 +12693,7 @@ __metadata:
     gatsby-remark-copy-linked-files: ^5.17.0
     gatsby-remark-embed-video: ^3.1.4
     gatsby-remark-images: ^6.17.0
-    gatsby-remark-prismjs: ^6.17.0
+    gatsby-remark-prismjs: ^6.25.0
     gatsby-remark-responsive-iframe: ^5.17.0
     gatsby-source-filesystem: ^4.17.0
     gatsby-theme-advanced: "*"
